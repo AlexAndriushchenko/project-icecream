@@ -1,15 +1,16 @@
+github.com/AlexAndriushchenko/project-icecream.git
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Musiyan98.github.io/IceCream_by_IT_Legend",
+  "homepage": "https://github.com/AlexAndriushchenko/project-icecream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceCream_by_IT_Legend/"
+    "build": "parcel build src/*.html --public-url /project-icecream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/AlexAndriushchenko/project-icecream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
